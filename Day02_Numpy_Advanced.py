@@ -55,7 +55,6 @@ array_eye
 array_of_evens = np.arange(2,21,2)
 print(array_of_evens)
 
-
 # In[ ]:
 
 
